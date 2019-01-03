@@ -1,0 +1,4 @@
+Hour:0
+Minute:0
+NumPosts:50
+Subreddit:all
